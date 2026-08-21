@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
