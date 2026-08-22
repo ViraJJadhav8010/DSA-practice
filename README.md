@@ -22,4 +22,5 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
