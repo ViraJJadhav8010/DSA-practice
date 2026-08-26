@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 | [0002-add-two-numbers](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
