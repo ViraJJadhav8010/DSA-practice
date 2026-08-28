@@ -50,4 +50,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
