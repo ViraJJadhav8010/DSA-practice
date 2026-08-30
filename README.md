@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0002-add-two-numbers](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0066-plus-one) |
 ## Linked List
 |  |
@@ -53,5 +55,6 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
