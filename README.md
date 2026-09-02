@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0075-sort-colors) |
+| [0389-find-the-difference](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0389-find-the-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0014-longest-common-prefix](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -70,4 +73,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
