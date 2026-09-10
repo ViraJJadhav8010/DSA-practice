@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0283-move-zeroes) |
+| [0860-lemonade-change](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 | ------- |
 | [0136-single-number](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0389-find-the-difference) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
