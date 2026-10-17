@@ -101,4 +101,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
