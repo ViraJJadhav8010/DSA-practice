@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0860-lemonade-change](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0860-lemonade-change) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0035-search-insert-position](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/0389-find-the-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ViraJJadhav8010/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
